@@ -13,6 +13,7 @@ I'm an autodidact, scientist, and programmer, probably in that order.
 * Self-learning allowed me to excel in NAQT Quiz Bowl, but [not compared to a Jeopardy champion](https://www.naqt.com/stats/tournament/team.jsp?team_id=146925)
 
 * It did allow me to add [breadth to my academic background](https://nathanielbd.github.io/resume.pdf) with classes in computational chemistry, quantum mechanics, and biochemistry
+
 * My research interests include genetic interaction networks, reversible computing, and computational materials science
 
 ### What I'm doing now
@@ -25,11 +26,6 @@ I'm an autodidact, scientist, and programmer, probably in that order.
 
 * Writing interesting posts on [my blog](https://nathanielbd.github.io)
 
-* Teaching and leading projects in STEM topics to [aspiring Asian American scientists and engineers](https://saseumn.org/) and flask/React/React Native to [app development enthusiasts](https://www.facebook.com/appdevelopersclubumn/)
+* Teaching and leading projects in STEM topics to [aspiring Asian American scientists and engineers](https://saseumn.org/) and flask/React/React Native to [app development enthusiasts](https://ADC-UMN.github.io)
 
 * Trying to beat [Cardinal Quest 2](http://cardinalquest2.com/) 100%
-
----
-
-- 🌱 I’m currently learning quantum computing
-- 💬 Ask me about my research interests and personal projects
