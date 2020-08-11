@@ -8,7 +8,7 @@
 
 I'm an autodidact, scientist, and programmer, probably in that order.
 
-* I started self-learning programming in secondary school, making [a shoddy Zork tribute](https://cold-crisp-catnap.neocities.org) and [breaking webgames](https://gist.github.com/nathanielbd)
+* I started self-learning programming in secondary school, making [a shoddy Zork tribute](https://cold-crisp-catnap.neocities.org) and [breaking webgames](https://nathanielbd.github.io/posts/breaking-webgames/)
 
 * Self-learning allowed me to excel in NAQT Quiz Bowl, but [not compared to a Jeopardy champion](https://www.naqt.com/stats/tournament/team.jsp?team_id=146925)
 
