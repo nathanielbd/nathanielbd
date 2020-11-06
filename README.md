@@ -26,6 +26,6 @@ I'm an autodidact, scientist, and programmer, probably in that order.
 
 * Writing interesting posts on [my blog](https://nathanielbd.github.io)
 
-* Teaching and leading projects in STEM topics to [aspiring Asian American scientists and engineers](https://saseumn.org/) and flask/React/React Native to [app development enthusiasts](https://ADC-UMN.github.io)
+* Teaching and leading projects in STEM topics to [aspiring Asian American scientists and engineers](https://saseumn.org/) and flask/React/React Native to [app development enthusiasts](https://adcumn.org)
 
 * Trying to beat [Cardinal Quest 2](http://cardinalquest2.com/) 100%
