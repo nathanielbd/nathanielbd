@@ -16,7 +16,7 @@ If you're into
 - game design,
 - the NFL,
 - trivia,
-- math
+- math,
 - or decreasingly verbose lists that suddenly become very verbose,
 
 please say hi!
